@@ -1,0 +1,21 @@
+1)defnicion de los siguientes conceptos
+
+Variables: Una variable se puede definir como un tipo de almancen de un valor, para que dependiendo el valor va a ser untilizada en el 
+momento que uno lo necesite
+
+Strings: String indica una cadena de caracteres, el valor esta envuelto en comillas dobles o simples ("", '')
+Un STRING o cadena de caracteres es un tipo de dato que se utiliza para almacenar textos, numeros, no es una variable
+
+Argumento: Los argumentos de una función, también llamados parámetros, representa una lista de variables cuyos valores son pasados al
+ método para ser usados por éste. Suelen ser opcionales, por eso en el ejemplo están en corchetes [].
+
+ Return: La sentencia return tiene dos usos importantes. Primero, fuerza una salida de la función en la que nos encontramos. 
+ O sea, hace que la ejecución del programa vuelva al código que llamó a la función. En segundo lugar, se puede utilizar para devolver 
+ un valor.
+
+ Declaracion If: Un if en programación se utiliza para evaluar una expresión condicional: La utilizamos cuando tenemos una condición
+ que nos arroja dos resultados: Verdadero o Falso
+  
+Valores true y false: Los tipos de datos "booleanos" te ofrecen solamente dos valores: o "true" o "false", que puede ser o prendido o apagado,
+ o activo o inactivo, o uno o cero. El operador true devuelve el valor bool true para indicar que su operando es definitivamente true.
+ El operador false devuelve el valor bool true para indicar que su operando es definitivamente false
