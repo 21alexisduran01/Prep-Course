@@ -1,0 +1,19 @@
+do-while:
+La instrucción do-while permite repetir una instrucción o una instrucción compuesta hasta que una expresión especificada sea false.
+
+Switch:
+El condicional switch case es una estructura que evalúa más de un caso y se caracteriza por: Selección de una opción entre varias.
+ Switch recibe un “caso” y lo evalúa hasta encontrar el caso que corresponda. Se puede usar la opción “default” para cuando no se 
+ encuentra el caso dado.
+
+ For: 
+ La instrucción for permite repetir una instrucción o número, lo repite un numero de veces espesifica. lo importante de una 
+ instrucción for se ejecuta de cero o más veces hasta que una instrucción sea false
+
+ OR ( || ) y AND (&&):
+El && AND da el resultado es verdadero si ambas expresiones son verdaderas. Y el  || OR :  expresa que el 
+ resultado es verdadero si alguna expresión es verdadera 
+
+ El operador lógico NOT no realiza ninguna comparación como lo hacen los operadores AND "&&" y OR "||". Además, se opera en solo un
+ operando. Se utiliza un símbolo que es "!" y esto es un signo de exclamación para representar un operador NOT.
+se usa solo cuando queremos convertir la expresión en un booleano o devolver el valor contrario del booleano obtenido en el último paso.
