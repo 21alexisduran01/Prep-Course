@@ -1,0 +1,10 @@
+Definicion de array
+
+Un Array  es una colección o agrupación de elementos en una misma variable, cada uno
+ de ellos esta con referencia a la posición que ocupa dentro del array. Tanto la longitud(largo) como 
+ el tipo de los elementos de un array son variables. Dado que la longitud de un array lo podemos cambiar en 
+ cualquier momento y los datos se pueden almacenar en ubicaciones do deseadas ya que no tiene un orden espesifico
+
+lo parecido a los string, saber el número de elementos que tiene un array  es muy sencillo. Solo tendrás que acceder a 
+la propiedad .length, que te da el número de elementos dentro de un array
+Método “Number” length: te da el número de elementos del array, osea que te dice cuantos variables o elementos hay.
